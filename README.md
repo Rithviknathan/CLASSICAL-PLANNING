@@ -1,4 +1,4 @@
-# ExpNo:10 Implementation of Classical Planning Algorithm
+# Exp No:10 Implementation of Classical Planning Algorithm
 ### Name: RITHVIK S <br>
 ### Register Number: 212223100045<br>
 
